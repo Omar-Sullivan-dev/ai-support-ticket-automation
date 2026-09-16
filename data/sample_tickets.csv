@@ -1,0 +1,5 @@
+ticket_id,customer_name,subject,message
+1001,Avery Reed,Locked out,"I cannot sign in after resetting my password and need help getting back into my account."
+1002,Jordan Lee,Duplicate charge,"I was charged twice for the same monthly subscription. Please review the billing issue."
+1003,Morgan Diaz,Application crash,"The desktop app crashes whenever I upload a CSV file and shows an unexpected error."
+1004,Taylor Brooks,Feature question,"Can I export my account history to a spreadsheet?"

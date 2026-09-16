@@ -1,0 +1,26 @@
+[
+  {
+    "id": "KB-101",
+    "title": "Account access and password resets",
+    "keywords": ["account", "login", "password", "locked", "sign", "access"],
+    "guidance": "verify the account safely and follow the password-reset and account-unlock procedure."
+  },
+  {
+    "id": "KB-202",
+    "title": "Duplicate charges and billing review",
+    "keywords": ["billing", "charge", "charged", "invoice", "refund", "subscription", "twice"],
+    "guidance": "compare the transaction dates and amounts, then route confirmed duplicates to billing review."
+  },
+  {
+    "id": "KB-303",
+    "title": "Application errors and crashes",
+    "keywords": ["app", "application", "crash", "error", "upload", "failed", "broken"],
+    "guidance": "capture the error message, operating environment, reproduction steps, and recent changes."
+  },
+  {
+    "id": "KB-404",
+    "title": "Exports and account history",
+    "keywords": ["export", "history", "spreadsheet", "csv", "download"],
+    "guidance": "confirm the requested date range and direct the customer to the approved export workflow."
+  }
+]
